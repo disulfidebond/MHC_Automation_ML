@@ -1,7 +1,7 @@
 ### Beta Release 1.0 Supplemental Comment
 #### Author: JRC
 
-At this point, there is one remaining roadblock, and unfortunately it is a big one.
+At this point, there is one remaining roadblock to completing the MHC Automation, but unfortunately it is a big one.
 
 In the current beta 1_0 build, if you run it, it will fail with the error 
 
