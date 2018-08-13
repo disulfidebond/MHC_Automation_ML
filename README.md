@@ -16,3 +16,9 @@ Briefly, here is a description of each:
   * This file is essentially part 1 of the overall workflow, with some additional minor debugging still required
 * allele_df-trainingSet-HapA, allele_df-testingSet-HapA
   * These were files that were used both for test datasets for ML, and as test input files for the parser.
+* fParse.py, testLabKeyQuery.py
+  * These tested the API for labkey and are a good template, regardless of the programming language
+* parsedLabKeyMiSeqResults.txt
+  * this is the *output* from the parser; the input file is a raw json format with all lab data, and for sensitivity/security reasons it was not included
+* workflow_comments_filterParse.md
+  * these are notes on how I created and formatted the input file for Machine Learning
