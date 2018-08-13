@@ -1,0 +1,1204 @@
+MatchedEntry:  MiSeq141: AG-MCM11_Evans9_CPRC5_ Sullivan5 _Bussan1
+MatchedEntryDate: 2018/08/01 08:45:35
+MatchedEntryExpID:  21320
+MatchedEntryRunID:  490
+####
+
+
+MatchedEntry:  MTC_MiSeq08_Plate12_Plate13
+MatchedEntryDate: 2018/07/22 10:51:59
+MatchedEntryExpID:  21258
+MatchedEntryRunID:  487
+####
+
+
+MatchedEntry:  MiSeq140:CHOP1
+MatchedEntryDate: 2018/07/20 09:58:00
+MatchedEntryExpID:  21249
+MatchedEntryRunID:  486
+####
+
+
+MatchedEntry:  MTC_MiSeq07_Plate10_Plate11
+MatchedEntryDate: 2018/07/15 21:09:38
+MatchedEntryExpID:  21221
+MatchedEntryRunID:  484
+####
+
+
+MatchedEntry:  MiSeq139:AG-Indian37
+MatchedEntryDate: 2018/07/06 13:33:37
+MatchedEntryExpID:  21178
+MatchedEntryRunID:  482
+####
+
+
+MatchedEntry:  MTC_MiSeq06_Plate12_Plate13
+MatchedEntryDate: 2018/06/28 13:21:45
+MatchedEntryExpID:  21148
+MatchedEntryRunID:  479
+####
+
+
+MatchedEntry:  MTC_MiSeq05b_Plate10_Plate11
+MatchedEntryDate: 2018/06/26 18:11:21
+MatchedEntryExpID:  21140
+MatchedEntryRunID:  478
+####
+
+
+MatchedEntry:  MTC_MiSeq05_Plate10_Plate11
+MatchedEntryDate: 2018/06/25 16:29:15
+MatchedEntryExpID:  21125
+MatchedEntryRunID:  477
+####
+
+
+MatchedEntry:  re-upload of MiSeq138
+MatchedEntryDate: 2018/06/18 13:50:36
+MatchedEntryExpID:  21049
+MatchedEntryRunID:  473
+####
+
+
+MatchedEntry:  MiSeq137: AG-Indian36
+MatchedEntryDate: 2018/05/31 14:23:05
+MatchedEntryExpID:  20900
+MatchedEntryRunID:  466
+####
+
+
+MatchedEntry:  MiSeq136: Bioculture27
+MatchedEntryDate: 2018/05/14 11:48:09
+MatchedEntryExpID:  20794
+MatchedEntryRunID:  462
+####
+
+
+MatchedEntry:  MTC_MiSeq04_Plate4_Plate5
+MatchedEntryDate: 2018/05/01 12:01:56
+MatchedEntryExpID:  20721
+MatchedEntryRunID:  458
+####
+
+
+MatchedEntry:  16S_MTC_MiSeq02
+MatchedEntryDate: 2018/04/26 11:48:14
+MatchedEntryExpID:  20685
+MatchedEntryRunID:  456
+####
+
+
+MatchedEntry:  MiSeq135:CPRC3
+MatchedEntryDate: 2018/04/24 11:13:31
+MatchedEntryExpID:  20658
+MatchedEntryRunID:  455
+####
+
+
+MatchedEntry:  MTC MiSeq01 Plate 1
+MatchedEntryDate: 2018/04/20 13:08:05
+MatchedEntryExpID:  20626
+MatchedEntryRunID:  454
+####
+
+
+MatchedEntry:  MiSeq134: Felber2-1
+MatchedEntryDate: 2018/04/06 12:00:20
+MatchedEntryExpID:  20501
+MatchedEntryRunID:  451
+####
+
+
+MatchedEntry:  MiSeq133: WNPCR17
+MatchedEntryDate: 2018/03/19 13:31:39
+MatchedEntryExpID:  20382
+MatchedEntryRunID:  446
+####
+
+
+MatchedEntry:  MiSeq132b: Felber1_2_Madsen12_Moersay1_Dora16_Rakasz4_Shebly8_LKSNP_LKDLA
+MatchedEntryDate: 2018/03/09 11:39:17
+MatchedEntryExpID:  20313
+MatchedEntryRunID:  442
+####
+
+
+MatchedEntry:  MiSeq132: WNPRC17
+MatchedEntryDate: 2018/03/05 13:33:51
+MatchedEntryExpID:  20269
+MatchedEntryRunID:  440
+####
+
+
+MatchedEntry:  MiSeq126: CPRC2pc
+MatchedEntryDate: 2018/02/12 15:01:46
+MatchedEntryExpID:  19701
+MatchedEntryRunID:  434
+####
+
+
+MatchedEntry:  MiSeq131_Lilly1_Maness3_SNPRC11_WNPRC17_Bioculture26_MCM-Chimerism
+MatchedEntryDate: 2018/01/16 12:42:51
+MatchedEntryExpID:  20055
+MatchedEntryRunID:  427
+####
+
+
+MatchedEntry:  MiSeq130: Bioculture26b
+MatchedEntryDate: 2018/01/02 10:02:18
+MatchedEntryExpID:  20003
+MatchedEntryRunID:  425
+####
+
+
+MatchedEntry:  MiSeq129_Sullivan4_Bioculture25b-26_Azimzadeh2
+MatchedEntryDate: 2017/12/08 09:17:58
+MatchedEntryExpID:  19918
+MatchedEntryRunID:  422
+####
+
+
+MatchedEntry:  MiSeq128c_CharlesRiver4_Bioculture25a_CPRC2_PosCtrl
+MatchedEntryDate: 2017/11/27 10:20:40
+MatchedEntryExpID:  19859
+MatchedEntryRunID:  420
+####
+
+
+MatchedEntry:  MiSeq128b_CharlesRiver4_Bioculture25a_CPRC2_PosCtrl
+MatchedEntryDate: 2017/11/21 19:55:58
+MatchedEntryExpID:  19854
+MatchedEntryRunID:  419
+####
+
+
+MatchedEntry:  MiSeq128_CharlesRiver4_Sullivan4-1_Bioculture25
+MatchedEntryDate: 2017/11/21 12:54:42
+MatchedEntryExpID:  19849
+MatchedEntryRunID:  418
+####
+
+
+MatchedEntry:  MiSeq127: AG-Indian31
+MatchedEntryDate: 2017/10/18 22:48:02
+MatchedEntryExpID:  19725
+MatchedEntryRunID:  414
+####
+
+
+MatchedEntry:  MiSeq125_PhiX_test
+MatchedEntryDate: 2017/10/11 17:02:53
+MatchedEntryExpID:  19697
+MatchedEntryRunID:  412
+####
+
+
+MatchedEntry:  Repeat MiSeq124: AG-Indian31-33_Hayne3_Shelby8_DiMasco9_Baboon1-2_Vezys1
+MatchedEntryDate: 2017/10/10 17:00:10
+MatchedEntryExpID:  19692
+MatchedEntryRunID:  411
+####
+
+
+MatchedEntry:  MiSeq124: AG-Indian31-33_Hayne3_Shelby8_DiMasco9_Baboon1-2_Vezys1
+MatchedEntryDate: 2017/10/09 15:05:48
+MatchedEntryExpID:  19685
+MatchedEntryRunID:  410
+####
+
+
+MatchedEntry:  MiSeq123: AG-Indo12-13-14_AG-Indian34-35_AG-MCM10_Burton5_MiSeq122_repeats
+MatchedEntryDate: 2017/09/28 09:08:33
+MatchedEntryExpID:  19647
+MatchedEntryRunID:  407
+####
+
+
+MatchedEntry:  MiSeq122: Authier5-6_CharlesRiver3_BioCulture24_AG-MCM10_MiSeq121-Repeats
+MatchedEntryDate: 2017/09/05 09:49:55
+MatchedEntryExpID:  19530
+MatchedEntryRunID:  404
+####
+
+
+MatchedEntry:  MiSeq121: Authier4_SNPRC10_Ionis2-3_Burton6_Gardner1_Thomson4_Vezys1_Columbia4_WNPRC16_CPRC1-2_A002_Thomson3b
+MatchedEntryDate: 2017/08/12 22:46:07
+MatchedEntryExpID:  19457
+MatchedEntryRunID:  399
+####
+
+
+MatchedEntry:  MiSeq120_CPRC2_Sodora1_Maness2_repeats
+MatchedEntryDate: 2017/07/24 14:34:13
+MatchedEntryExpID:  19354
+MatchedEntryRunID:  394
+####
+
+
+MatchedEntry:  Re-upload of MiSeq119
+MatchedEntryDate: 2017/07/14 11:12:44
+MatchedEntryExpID:  None
+MatchedEntryRunID:  392
+####
+
+
+MatchedEntry:  MiSeq119: Ionis
+MatchedEntryDate: 2017/07/09 18:54:18
+MatchedEntryExpID:  19298
+MatchedEntryRunID:  390
+####
+
+
+MatchedEntry:  MiSeq118: Bioculture23_Madsen11_Ionis1_Hering5_Roederer11repeat_MacLellan2_Sacha7_Reynolds10_AG-Indian31_Roederer9-TRIM5/TRIMCyp
+MatchedEntryDate: 2017/06/24 11:18:40
+MatchedEntryExpID:  19238
+MatchedEntryRunID:  385
+####
+
+
+MatchedEntry:  MiSeq117: SNPRC8-9_Roederer11_CPRC1b_Evans5_WNPRC13-14_Mothe4_BPRC6
+MatchedEntryDate: 2017/06/06 17:54:25
+MatchedEntryExpID:  19144
+MatchedEntryRunID:  383
+####
+
+
+MatchedEntry:  MiSeq116: CPRC1b
+MatchedEntryDate: 2017/05/26 13:45:45
+MatchedEntryExpID:  19085
+MatchedEntryRunID:  381
+####
+
+
+MatchedEntry:  MiSeq115: CPRC1a
+MatchedEntryDate: 2017/05/19 11:02:42
+MatchedEntryExpID:  19049
+MatchedEntryRunID:  379
+####
+
+
+MatchedEntry:  MiSeq114: Bioculture21-22
+MatchedEntryDate: 2017/05/09 14:20:14
+MatchedEntryExpID:  19010
+MatchedEntryRunID:  378
+####
+
+
+MatchedEntry:  re-upload of the MiSeq113
+MatchedEntryDate: 2017/05/03 14:29:57
+MatchedEntryExpID:  18965
+MatchedEntryRunID:  376
+####
+
+
+MatchedEntry:  MiSeq113: Roederer10b_AG-Indian30b
+MatchedEntryDate: 2017/05/01 12:55:26
+MatchedEntryExpID:  18965
+MatchedEntryRunID:  375
+####
+
+
+MatchedEntry:  MiSeq112: SNPRC7_Permar3_Hayne2_Adams11_Roederer10a_Lei3_Shelby7
+MatchedEntryDate: 2017/04/26 09:07:49
+MatchedEntryExpID:  18948
+MatchedEntryRunID:  374
+####
+
+
+MatchedEntry:  MiSeq111: Bioculture19-20
+MatchedEntryDate: 2017/04/13 12:55:16
+MatchedEntryExpID:  18850
+MatchedEntryRunID:  372
+####
+
+
+MatchedEntry:  MiSeq110b Repeat: Roederer9
+MatchedEntryDate: 2017/04/02 13:42:11
+MatchedEntryExpID:  18850
+MatchedEntryRunID:  369
+####
+
+
+MatchedEntry:  MiSeq110_Roederer9_AG-MCM7
+MatchedEntryDate: 2017/04/01 12:18:07
+MatchedEntryExpID:  18847
+MatchedEntryRunID:  368
+####
+
+
+MatchedEntry:  MiSeq109b: repeat DiMascio8_Azimzadeh1_Miller1_Thomson3_AG-Indian29-30
+MatchedEntryDate: 2017/03/17 11:16:29
+MatchedEntryExpID:  18788
+MatchedEntryRunID:  365
+####
+
+
+MatchedEntry:  MiSeq109: Pfizer11-12_DiMascio8_Azimzadeh1_Miller1_AG-Indian29-30
+MatchedEntryDate: 2017/03/14 08:58:11
+MatchedEntryExpID:  18770
+MatchedEntryRunID:  364
+####
+
+
+MatchedEntry:  MiSeq108: Bioculture18
+MatchedEntryDate: 2017/02/22 09:25:29
+MatchedEntryExpID:  18717
+MatchedEntryRunID:  361
+####
+
+
+MatchedEntry:  MiSeq107:Roederer8
+MatchedEntryDate: 2017/01/30 16:29:24
+MatchedEntryExpID:  18605
+MatchedEntryRunID:  358
+####
+
+
+MatchedEntry:  MiSeq106: Bioculture16a
+MatchedEntryDate: 2017/01/13 17:08:49
+MatchedEntryExpID:  18534
+MatchedEntryRunID:  355
+####
+
+
+MatchedEntry:  MiSeq105c: repeat after PhiX Test
+MatchedEntryDate: 2017/01/09 15:32:49
+MatchedEntryExpID:  18487
+MatchedEntryRunID:  354
+####
+
+
+MatchedEntry:  MiSeq105b: repeat after Service Call#2
+MatchedEntryDate: 2017/01/03 12:57:10
+MatchedEntryExpID:  18468
+MatchedEntryRunID:  353
+####
+
+
+MatchedEntry:  MiSeq105a: Ruprecht6
+MatchedEntryDate: 2016/12/29 15:44:04
+MatchedEntryExpID:  18459
+MatchedEntryRunID:  352
+####
+
+
+MatchedEntry:  MiSeq104: Sullivan3
+MatchedEntryDate: 2016/12/15 11:39:32
+MatchedEntryExpID:  18419
+MatchedEntryRunID:  349
+####
+
+
+MatchedEntry:  MiSeq103: SNPRC3
+MatchedEntryDate: 2016/11/25 22:59:07
+MatchedEntryExpID:  18362
+MatchedEntryRunID:  347
+####
+
+
+MatchedEntry:  MiSeq102b_FHCRC3_Pitt3_Burton3_Shelby6_SNPRC4_repeats
+MatchedEntryDate: 2016/11/14 17:15:20
+MatchedEntryExpID:  18309
+MatchedEntryRunID:  343
+####
+
+
+MatchedEntry:  MiSeq102_FHCRC3_Pitt3_Burton3_Shelby6_repeats
+MatchedEntryDate: 2016/11/11 15:50:34
+MatchedEntryExpID:  18309
+MatchedEntryRunID:  342
+####
+
+
+MatchedEntry:  MiSeq101: Roederer7
+MatchedEntryDate: 2016/10/21 11:52:16
+MatchedEntryExpID:  18194
+MatchedEntryRunID:  338
+####
+
+
+MatchedEntry:  MiSeq100: WNPRC12
+MatchedEntryDate: 2016/09/30 15:36:11
+MatchedEntryExpID:  18119
+MatchedEntryRunID:  335
+####
+
+
+MatchedEntry:  MiSeq99_Kean15_Slukivin1_WNPRC12_AG-Indian28
+MatchedEntryDate: 2016/08/24 12:23:12
+MatchedEntryExpID:  17939
+MatchedEntryRunID:  334
+####
+
+
+MatchedEntry:  MiSeq98B: CNPRC3
+MatchedEntryDate: 2016/08/02 13:27:21
+MatchedEntryExpID:  17834
+MatchedEntryRunID:  332
+####
+
+
+MatchedEntry:  MiSeq98: CNPRC3
+MatchedEntryDate: 2016/08/01 14:32:13
+MatchedEntryExpID:  17815
+MatchedEntryRunID:  331
+####
+
+
+MatchedEntry:  MiSeq97B: FCGR_Pilot/FCGR_1 MCM
+MatchedEntryDate: 2016/07/11 14:36:22
+MatchedEntryExpID:  17714
+MatchedEntryRunID:  330
+####
+
+
+MatchedEntry:  MiSeq97: FCGR_Pilot/FCGR_1 MCM
+MatchedEntryDate: 2016/07/08 09:18:57
+MatchedEntryExpID:  17707
+MatchedEntryRunID:  329
+####
+
+
+MatchedEntry:  MiSeq96: AG-Indian27
+MatchedEntryDate: 2016/06/24 10:36:18
+MatchedEntryExpID:  17634
+MatchedEntryRunID:  328
+####
+
+
+MatchedEntry:  MiSeq95: Bioculture15
+MatchedEntryDate: 2016/06/09 11:31:48
+MatchedEntryExpID:  17545
+MatchedEntryRunID:  324
+####
+
+
+MatchedEntry:  MiSeq94:Kirk5
+MatchedEntryDate: 2016/05/27 10:40:03
+MatchedEntryExpID:  17481
+MatchedEntryRunID:  322
+####
+
+
+MatchedEntry:  MiSeq93: AG-Indian24-27
+MatchedEntryDate: 2016/04/26 13:12:19
+MatchedEntryExpID:  17360
+MatchedEntryRunID:  317
+####
+
+
+MatchedEntry:  MiSeq92d: Roederer5_AG-Indian23_UCLA2_Mothe3_BST2_TCR
+MatchedEntryDate: 2016/04/10 19:56:57
+MatchedEntryExpID:  17300
+MatchedEntryRunID:  314
+####
+
+
+MatchedEntry:  MiSeq92c: Roederer5_AG-Indian23_UCLA2_Mothe3_BST2_TCR
+MatchedEntryDate: 2016/04/05 12:20:27
+MatchedEntryExpID:  17279
+MatchedEntryRunID:  312
+####
+
+
+MatchedEntry:  MiSeq92b: Roederer5_AG-Indian23_UCLA2_Mothe3_BST2_TCR
+MatchedEntryDate: 2016/04/04 12:57:27
+MatchedEntryExpID:  17255
+MatchedEntryRunID:  311
+####
+
+
+MatchedEntry:  MiSeq92: Roederer5_AG-Indian23_UCLA2_Mothe3_BST2_TCR
+MatchedEntryDate: 2016/03/31 22:23:52
+MatchedEntryExpID:  17255
+MatchedEntryRunID:  310
+####
+
+
+MatchedEntry:  MiSeq91: Bioculture14_Madsen7_SNBL2_DiMascio4_WNPRC11_Burton2-FCGR1A
+MatchedEntryDate: 2016/03/11 10:08:44
+MatchedEntryExpID:  17140
+MatchedEntryRunID:  309
+####
+
+
+MatchedEntry:  MiSeq90: DiMascio2-3
+MatchedEntryDate: 2016/02/19 14:32:46
+MatchedEntryExpID:  17040
+MatchedEntryRunID:  303
+####
+
+
+MatchedEntry:  MiSeq75b repreat - MHC Amplicons Test
+MatchedEntryDate: 2016/02/11 22:58:25
+MatchedEntryExpID:  17009
+MatchedEntryRunID:  300
+####
+
+
+MatchedEntry:  MiSeq89c - repeat with Jareds PhiX
+MatchedEntryDate: 2016/02/10 13:05:11
+MatchedEntryExpID:  17004
+MatchedEntryRunID:  298
+####
+
+
+MatchedEntry:  MiSeq89b Biotech run
+MatchedEntryDate: 2016/02/10 11:39:55
+MatchedEntryExpID:  16990
+MatchedEntryRunID:  297
+####
+
+
+MatchedEntry:  MiSeq89: Madsen6_repeat
+MatchedEntryDate: 2016/02/05 13:08:36
+MatchedEntryExpID:  16984
+MatchedEntryRunID:  296
+####
+
+
+MatchedEntry:  MiSeq88: AG-Indo8/9
+MatchedEntryDate: 2016/01/17 16:13:30
+MatchedEntryExpID:  16911
+MatchedEntryRunID:  289
+####
+
+
+MatchedEntry:  MiSeq87: Roederer1/2/3
+MatchedEntryDate: 2016/01/13 20:38:52
+MatchedEntryExpID:  16900
+MatchedEntryRunID:  288
+####
+
+
+MatchedEntry:  MiSeq86: Bioculture12
+MatchedEntryDate: 2016/01/01 12:10:55
+MatchedEntryExpID:  16862
+MatchedEntryRunID:  287
+####
+
+
+MatchedEntry:  MiSeq85: WIS03_Kirk3_SNPRC3b_Kaushal1_Bioculture13
+MatchedEntryDate: 2015/12/18 12:19:06
+MatchedEntryExpID:  16845
+MatchedEntryRunID:  286
+####
+
+
+MatchedEntry:  MiSeq84: SNPRC3b
+MatchedEntryDate: 2015/12/04 11:12:36
+MatchedEntryExpID:  16804
+MatchedEntryRunID:  284
+####
+
+
+MatchedEntry:  MiSeq83: repeat SNPRC3 from MiSeq82
+MatchedEntryDate: 2015/11/30 12:32:50
+MatchedEntryExpID:  16770
+MatchedEntryRunID:  283
+####
+
+
+MatchedEntry:  MiSeq82: Knechtle2
+MatchedEntryDate: 2015/11/17 14:19:51
+MatchedEntryExpID:  16734
+MatchedEntryRunID:  281
+####
+
+
+MatchedEntry:  MiSeq81: Pfizer10
+MatchedEntryDate: 2015/10/23 11:46:11
+MatchedEntryExpID:  16678
+MatchedEntryRunID:  278
+####
+
+
+MatchedEntry:  MiSeq80:WIS02
+MatchedEntryDate: 2015/09/28 09:03:59
+MatchedEntryExpID:  16820
+MatchedEntryRunID:  276
+####
+
+
+MatchedEntry:  MiSeq79: Ruprecht5
+MatchedEntryDate: 2015/09/03 13:53:15
+MatchedEntryExpID:  16562
+MatchedEntryRunID:  270
+####
+
+
+MatchedEntry:  MiSeq78:FCGR_1/2
+MatchedEntryDate: 2015/08/25 13:47:15
+MatchedEntryExpID:  16519
+MatchedEntryRunID:  267
+####
+
+
+MatchedEntry:  MiSeq77: FCGR
+MatchedEntryDate: 2015/07/27 15:52:52
+MatchedEntryExpID:  16430
+MatchedEntryRunID:  262
+####
+
+
+MatchedEntry:  MiSeq76:Kean13
+MatchedEntryDate: 2015/07/02 09:31:11
+MatchedEntryExpID:  16318
+MatchedEntryRunID:  260
+####
+
+
+MatchedEntry:  MiSeq75: Cellerant11_12
+MatchedEntryDate: 2015/06/11 10:34:48
+MatchedEntryExpID:  16244
+MatchedEntryRunID:  256
+####
+
+
+MatchedEntry:  MiSeq74: WIS01
+MatchedEntryDate: 2015/05/26 09:37:22
+MatchedEntryExpID:  16181
+MatchedEntryRunID:  254
+####
+
+
+MatchedEntry:  MiSeq73-WIS01
+MatchedEntryDate: 2015/05/15 06:56:39
+MatchedEntryExpID:  16140
+MatchedEntryRunID:  250
+####
+
+
+MatchedEntry:  MiSeq72-Bioculture11
+MatchedEntryDate: 2015/05/01 10:58:38
+MatchedEntryExpID:  16075
+MatchedEntryRunID:  247
+####
+
+
+MatchedEntry:  MiSeq71-Bioculture9-10_AG-In21_Ruprecht5
+MatchedEntryDate: 2015/04/10 22:23:18
+MatchedEntryExpID:  15995
+MatchedEntryRunID:  243
+####
+
+
+MatchedEntry:  MiSeq70b:Pfizer9
+MatchedEntryDate: 2015/04/03 12:56:38
+MatchedEntryExpID:  15963
+MatchedEntryRunID:  241
+####
+
+
+MatchedEntry:  MiSeq70:Pfizer9
+MatchedEntryDate: 2015/04/02 08:37:13
+MatchedEntryExpID:  15963
+MatchedEntryRunID:  240
+####
+
+
+MatchedEntry:  MiSeq69:Bioculture8
+MatchedEntryDate: 2015/03/23 17:22:02
+MatchedEntryExpID:  15926
+MatchedEntryRunID:  238
+####
+
+
+MatchedEntry:  MiSeq68:Bioculture8
+MatchedEntryDate: 2015/03/13 17:10:45
+MatchedEntryExpID:  15881
+MatchedEntryRunID:  237
+####
+
+
+MatchedEntry:  MiSeq67:Bioculture7
+MatchedEntryDate: 2015/02/15 07:02:55
+MatchedEntryExpID:  15746
+MatchedEntryRunID:  232
+####
+
+
+MatchedEntry:  MiSeq66:Bioculture6
+MatchedEntryDate: 2015/01/19 19:56:32
+MatchedEntryExpID:  15662
+MatchedEntryRunID:  226
+####
+
+
+MatchedEntry:  MiSeq65: BioCulture5b
+MatchedEntryDate: 2015/01/07 21:21:58
+MatchedEntryExpID:  15615
+MatchedEntryRunID:  223
+####
+
+
+MatchedEntry:  MiSeq64: BioCulture5
+MatchedEntryDate: 2014/12/17 09:04:35
+MatchedEntryExpID:  15571
+MatchedEntryRunID:  222
+####
+
+
+MatchedEntry:  MiSeq63: BioQual5/6
+MatchedEntryDate: 2014/12/06 20:17:56
+MatchedEntryExpID:  15531
+MatchedEntryRunID:  220
+####
+
+
+MatchedEntry:  MiSeq62: AG-Indian
+MatchedEntryDate: 2014/11/25 10:28:32
+MatchedEntryExpID:  15477
+MatchedEntryRunID:  219
+####
+
+
+MatchedEntry:  MiSeq61: AlphaGen
+MatchedEntryDate: 2014/11/07 12:47:35
+MatchedEntryExpID:  15432
+MatchedEntryRunID:  214
+####
+
+
+MatchedEntry:  MiSeq60: WNPRC7
+MatchedEntryDate: 2014/10/22 09:07:40
+MatchedEntryExpID:  15364
+MatchedEntryRunID:  212
+####
+
+
+MatchedEntry:  MiSeq59 Bioculture3R
+MatchedEntryDate: 2014/09/28 08:38:16
+MatchedEntryExpID:  15287
+MatchedEntryRunID:  211
+####
+
+
+MatchedEntry:  MiSeq58: BPRC4 & Bioculture3+ Dawn Samples
+MatchedEntryDate: 2014/09/17 11:29:16
+MatchedEntryExpID:  15247
+MatchedEntryRunID:  209
+####
+
+
+MatchedEntry:  MiSeq57: BPRC4 & Bioculture3
+MatchedEntryDate: 2014/09/16 11:02:34
+MatchedEntryExpID:  15241
+MatchedEntryRunID:  208
+####
+
+
+MatchedEntry:  MiSeq56
+MatchedEntryDate: 2014/09/03 16:06:51
+MatchedEntryExpID:  15192
+MatchedEntryRunID:  206
+####
+
+
+MatchedEntry:  MiSeq55: Bioculture2
+MatchedEntryDate: 2014/08/12 11:31:48
+MatchedEntryExpID:  15117
+MatchedEntryRunID:  204
+####
+
+
+MatchedEntry:  MiSeq54: 3 Fluidigm chips with MCM (Amgen
+MatchedEntryDate: 2014/07/31 12:40:45
+MatchedEntryExpID:  15061
+MatchedEntryRunID:  200
+####
+
+
+MatchedEntry:  MiSeq53:NEPRC8
+MatchedEntryDate: 2014/07/16 18:20:21
+MatchedEntryExpID:  14971
+MatchedEntryRunID:  197
+####
+
+
+MatchedEntry:  MiSeq52_MHC-SeqCap2
+MatchedEntryDate: 2014/06/28 11:31:05
+MatchedEntryExpID:  14899
+MatchedEntryRunID:  192
+####
+
+
+MatchedEntry:  MiSeq47(6): SNPRC2b
+MatchedEntryDate: 2014/06/27 16:07:39
+MatchedEntryExpID:  14615
+MatchedEntryRunID:  191
+####
+
+
+MatchedEntry:  MiSeq51_Lifson4_InRh
+MatchedEntryDate: 2014/06/25 16:42:38
+MatchedEntryExpID:  14886
+MatchedEntryRunID:  190
+####
+
+
+MatchedEntry:  MiSeq50_MHC_SeqCap1
+MatchedEntryDate: 2014/06/23 17:46:59
+MatchedEntryExpID:  14862
+MatchedEntryRunID:  189
+####
+
+
+MatchedEntry:  GSMiSeq49
+MatchedEntryDate: 2014/05/29 10:52:44
+MatchedEntryExpID:  14758
+MatchedEntryRunID:  183
+####
+
+
+MatchedEntry:  GSMiSeq48
+MatchedEntryDate: 2014/05/06 09:58:27
+MatchedEntryExpID:  14678
+MatchedEntryRunID:  181
+####
+
+
+MatchedEntry:  MiSeq47(5): SNPRC2b
+MatchedEntryDate: 2014/04/20 12:02:39
+MatchedEntryExpID:  4608
+MatchedEntryRunID:  175
+####
+
+
+MatchedEntry:  MiSeq47(4): SNPRC2b
+MatchedEntryDate: 2014/04/19 13:36:49
+MatchedEntryExpID:  14575
+MatchedEntryRunID:  173
+####
+
+
+MatchedEntry:  MiSeq47(3): SNPRC2b
+MatchedEntryDate: 2014/04/14 21:14:53
+MatchedEntryExpID:  14575
+MatchedEntryRunID:  172
+####
+
+
+MatchedEntry:  MiSeq47repeat: SNPRC2b
+MatchedEntryDate: 2014/04/13 14:54:42
+MatchedEntryExpID:  14575
+MatchedEntryRunID:  171
+####
+
+
+MatchedEntry:  MiSeq47: SNPRC2b
+MatchedEntryDate: 2014/04/13 11:03:14
+MatchedEntryExpID:  14575
+MatchedEntryRunID:  170
+####
+
+
+MatchedEntry:  MiSeq46: FAA with Thomson1
+MatchedEntryDate: 2014/03/12 15:36:54
+MatchedEntryExpID:  14459
+MatchedEntryRunID:  161
+####
+
+
+MatchedEntry:  MiSeq45: Bioqual1_Cellerant9_FHCRC2_JHU-PT-Breeders11-12_WNPRC4
+MatchedEntryDate: 2014/02/27 10:49:13
+MatchedEntryExpID:  14386
+MatchedEntryRunID:  158
+####
+
+
+MatchedEntry:  MiSeq44: Burton1
+MatchedEntryDate: 2014/01/15 15:52:21
+MatchedEntryExpID:  14159
+MatchedEntryRunID:  146
+####
+
+
+MatchedEntry:  MiSeq43
+MatchedEntryDate: 2013/12/19 22:40:57
+MatchedEntryExpID:  14062
+MatchedEntryRunID:  140
+####
+
+
+MatchedEntry:  MiSeq42
+MatchedEntryDate: 2013/10/22 11:37:25
+MatchedEntryExpID:  13886
+MatchedEntryRunID:  128
+####
+
+
+MatchedEntry:  MiSeq41-MHC Workshop: Brazil1
+MatchedEntryDate: 2013/10/22 07:30:51
+MatchedEntryExpID:  13881
+MatchedEntryRunID:  127
+####
+
+
+MatchedEntry:  MiSeq40-Pfizer7
+MatchedEntryDate: 2013/09/26 09:57:30
+MatchedEntryExpID:  13791
+MatchedEntryRunID:  124
+####
+
+
+MatchedEntry:  MiSeq39-WNPRC Biotech & Kirk1 SBT195+DRB283g
+MatchedEntryDate: 2013/08/30 14:13:39
+MatchedEntryExpID:  13663
+MatchedEntryRunID:  122
+####
+
+
+MatchedEntry:  MiSeq38-Fluidigm7-W/CNPRC trios & AGI IndoCynos
+MatchedEntryDate: 2013/08/20 15:26:08
+MatchedEntryExpID:  13599
+MatchedEntryRunID:  119
+####
+
+
+MatchedEntry:  MiSeq37-Fluidigm6 Lifson3 Pfizer6 - re-pooled after failed runs 30%PhiX 10pM
+MatchedEntryDate: 2013/08/07 10:41:28
+MatchedEntryExpID:  13569
+MatchedEntryRunID:  117
+####
+
+
+MatchedEntry:  MiSeq35-Rerun of Run #118 / MiSeq34: Fluidigm6 Dora8 MHC Contract2 Kean10 Yerkes DRB Lifson3 + Pfizer6 
+MatchedEntryDate: 2013/08/05 14:45:14
+MatchedEntryExpID:  13562
+MatchedEntryRunID:  115
+####
+
+
+MatchedEntry:  MiSeq34-Fluidigm6 Dora8 MHC Contract2 Kean10 Yerkes DRB Lifson3 + Pfizer6 
+MatchedEntryDate: 2013/08/01 11:04:09
+MatchedEntryExpID:  13558
+MatchedEntryRunID:  114
+####
+
+
+MatchedEntry:  MiSeq33-Fluidigm5_Pfizer6_R24PT
+MatchedEntryDate: 2013/07/28 09:32:58
+MatchedEntryExpID:  13544
+MatchedEntryRunID:  113
+####
+
+
+MatchedEntry:  MiSeq32-Fluidigm4_SNPRC
+MatchedEntryDate: 2013/07/18 09:56:53
+MatchedEntryExpID:  13515
+MatchedEntryRunID:  110
+####
+
+
+MatchedEntry:  MiSeq31-Fluidigm3_DRB283
+MatchedEntryDate: 2013/07/12 13:24:40
+MatchedEntryExpID:  13495
+MatchedEntryRunID:  109
+####
+
+
+MatchedEntry:  MiSeq30-Fluidigm2/DRB283
+MatchedEntryDate: 2013/07/09 14:21:07
+MatchedEntryExpID:  13484
+MatchedEntryRunID:  107
+####
+
+
+MatchedEntry:  MiSeq29-Fluidigm1-MCM-pilot
+MatchedEntryDate: 2013/07/01 10:34:16
+MatchedEntryExpID:  13456
+MatchedEntryRunID:  106
+####
+
+
+MatchedEntry:  MiSeq28-Fluidigm1-MCM-pilot
+MatchedEntryDate: 2013/06/23 17:04:57
+MatchedEntryExpID:  13435
+MatchedEntryRunID:  103
+####
+
+
+MatchedEntry:  MiSeq27-MCM-MHC/RhMix
+MatchedEntryDate: 2013/05/29 15:44:46
+MatchedEntryExpID:  13334
+MatchedEntryRunID:  99
+####
+
+
+MatchedEntry:  MiSeq26-MCM-MHC/RhMix
+MatchedEntryDate: 2013/05/28 14:00:07
+MatchedEntryExpID:  13322
+MatchedEntryRunID:  98
+####
+
+
+MatchedEntry:  MiSeq25
+MatchedEntryDate: 2013/04/10 11:42:11
+MatchedEntryExpID:  13120
+MatchedEntryRunID:  94
+####
+
+
+MatchedEntry:  MiSeq24
+MatchedEntryDate: 2013/03/25 11:16:34
+MatchedEntryExpID:  13024
+MatchedEntryRunID:  92
+####
+
+
+MatchedEntry:  MiSeq23
+MatchedEntryDate: 2013/03/05 11:58:56
+MatchedEntryExpID:  12947
+MatchedEntryRunID:  89
+####
+
+
+MatchedEntry:  MiSeq22
+MatchedEntryDate: 2013/02/24 13:41:43
+MatchedEntryExpID:  12904
+MatchedEntryRunID:  87
+####
+
+
+MatchedEntry:  MiSeq21
+MatchedEntryDate: 2013/01/15 15:36:25
+MatchedEntryExpID:  12700
+MatchedEntryRunID:  82
+####
+
+
+MatchedEntry:  MiSeq19
+MatchedEntryDate: 2012/12/03 18:28:34
+MatchedEntryExpID:  12600
+MatchedEntryRunID:  76
+####
+
+
+MatchedEntry:  MiSeq18
+MatchedEntryDate: 2012/11/16 15:13:13
+MatchedEntryExpID:  12554
+MatchedEntryRunID:  74
+####
+
+
+MatchedEntry:  MiSeq17
+MatchedEntryDate: 2012/11/14 09:56:29
+MatchedEntryExpID:  12537
+MatchedEntryRunID:  73
+####
+
+
+MatchedEntry:  MiSeq16 (BF
+MatchedEntryDate: 2012/10/29 15:45:21
+MatchedEntryExpID:  12505
+MatchedEntryRunID:  69
+####
+
+
+MatchedEntry:  MiSeq15
+MatchedEntryDate: 2012/10/22 10:52:05
+MatchedEntryExpID:  12467
+MatchedEntryRunID:  65
+####
+
+
+MatchedEntry:  MiSeq14
+MatchedEntryDate: 2012/10/19 09:52:40
+MatchedEntryExpID:  12447
+MatchedEntryRunID:  64
+####
+
+
+MatchedEntry:  MiSeq13
+MatchedEntryDate: 2012/10/19 09:52:34
+MatchedEntryExpID:  12430
+MatchedEntryRunID:  63
+####
+
+
+MatchedEntry:  MiSeq12
+MatchedEntryDate: 2012/10/19 09:52:31
+MatchedEntryExpID:  12400
+MatchedEntryRunID:  62
+####
+
+
+MatchedEntry:  MiSeq5
+MatchedEntryDate: 2012/10/17 10:51:25
+MatchedEntryExpID:  12146
+MatchedEntryRunID:  56
+####
+
+
+MatchedEntry:  MiSeq7
+MatchedEntryDate: 2012/10/16 11:56:19
+MatchedEntryExpID:  12186
+MatchedEntryRunID:  46
+####
+
+
+MatchedEntry:  MiSeq8
+MatchedEntryDate: 2012/10/16 11:33:24
+MatchedEntryExpID:  12270
+MatchedEntryRunID:  43
+####
+
+
+MatchedEntry:  MiSeq3
+MatchedEntryDate: 2012/10/15 15:42:32
+MatchedEntryExpID:  12104
+MatchedEntryRunID:  35
+####
+
+
+MatchedEntry:  MiSeq9
+MatchedEntryDate: 2012/10/15 15:30:42
+MatchedEntryExpID:  12318
+MatchedEntryRunID:  33
+####
+
+
+MatchedEntry:  MiSeq4
+MatchedEntryDate: 2012/10/15 13:59:29
+MatchedEntryExpID:  12110
+MatchedEntryRunID:  30
+####
+
+
+MatchedEntry:  MiSeq2
+MatchedEntryDate: 2012/10/15 13:32:39
+MatchedEntryExpID:  11915
+MatchedEntryRunID:  27
+####
+
+
+MatchedEntry:  MiSeq6
+MatchedEntryDate: 2012/10/15 11:53:51
+MatchedEntryExpID:  12183
+MatchedEntryRunID:  20
+####
+
+
+MatchedEntry:  MiSeq11
+MatchedEntryDate: 2012/10/15 11:49:51
+MatchedEntryExpID:  12383
+MatchedEntryRunID:  19
+####
+
+
+MatchedEntry:  MiSeq1
+MatchedEntryDate: 2012/10/11 16:38:23
+MatchedEntryExpID:  11860
+MatchedEntryRunID:  12
+####
+
+
+MatchedEntry:  MiSeq10
+MatchedEntryDate: 2012/09/26 13:01:34
+MatchedEntryExpID:  12352
+MatchedEntryRunID:  1
+####
+
+
