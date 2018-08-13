@@ -27,7 +27,7 @@ The data was manually formatted/parsed as a json, with the focus being to find a
 * delete the top sections, they are descriptive headers
   * start at the entry "rows:" []
   * add a newline before each entry {"Operator":
-    * *Comment from JC: The first rule of parsing data effectively is there is no set rule to parsing data effectively.  Here, I looked through the file for a commonly used keyword that I could use to divide the data up in a meaningful way. Any sharp-eyed observers that note this technique is very similar to tokenzing strings for Natural Language Processing get a gold star.*
+    * *Comment from JC: The first rule of parsing data effectively is there is no set rule to parsing data effectively.  Here, I looked through the file for a commonly used keyword that I could use to divide the data up in a meaningful way. Any sharp-eyed observers that note this technique is very similar to tokenzing strings for Natural Language Processing gets a gold star.*
   * The above command will not alter a json file, i.e. newlines are still syntactically correct, but provide an additional anchor for parsing.
   * This will split all entries by row. Once newlines are added, the attached python script was used to parse out experiment ID, run ID, a timestamp, and to do an initial filter.
   * This narrowed the list to a manageable 174 entries.
