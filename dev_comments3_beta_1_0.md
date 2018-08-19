@@ -1,3 +1,5 @@
+### Beta Release 1.0 Supplemental Comment 3
+#### Author: JRC
 I ran into a critical problem when the finish line was in sight. The current workflow is as follows:
 1) import input data
 2) parse input data into Pandas Dataframe that mimics the pivot tables, where column1 is the genotype names, and the rows are populated with one-hot vectors.
