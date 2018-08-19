@@ -19,10 +19,10 @@ The data for previous test builds had always used the ordering of the genotypes 
 
 However, this would not be an effective long term solution.  The moment a researcher attempted to use a different dataset that was not correctly formatted,
 the exact same problem would occur, with the only solution being to manually reformat the data using a collection of python, bash, and perl scripts. 
-This scenario was an important concern that this workflow was designed to address.
+This scenario was an important concern that this workflow was designed to address, thereby making such a workflow self-defeating at best.
 
 Several attempts were made to create a patch for this problem, bearing in mind that 
-[the build for a Neural Network](https://github.com/disulfidebond/MHC_Automation_ML/blob/dev/dev_comments2_beta_1_0.md) would not use these steps from the workflow at all:
+[the build for a Neural Network](https://github.com/disulfidebond/MHC_Automation_ML/blob/dev/dev_comments2_beta_1_0.md) would not use these steps at all:
 * transpose the input data values before step 5 (failed: would require completely rewriting code, and this code will be totally replaced in the next version)
 * create parallel workflows with the input dataset and the training dataset parsed separately (failed: the training data would still not match the input data)
 * reverse the workflow so that the training data matched the input data (failed: now the training data would not match its formatting workflow, thereby tripling work)
