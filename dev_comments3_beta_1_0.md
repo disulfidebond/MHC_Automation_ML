@@ -56,8 +56,7 @@ from training data in Data Object
         x = [
             {
                 entry_SAMPLEINT : [
-                    [MHC_A1,MHC_A2], 
-                    [MHC_B1,MHC_B2],
+                    [MHC_A1,MHC_A2] || [MHC_B1,MHC_B2], 
                     [genotypeList], 
                     [one-hot-vector-genotypeList],
                     [one-vector-list-genotypeList-horizontal],
