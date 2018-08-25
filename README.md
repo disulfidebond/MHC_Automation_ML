@@ -6,6 +6,8 @@ The initial commit for dev contains the python notebook, with developer comments
 
 Alpha python notebooks will retain the usage of all developer comments being inline, since the alpha branch may have multiple sub-projects.
 
+The dev version functions identically to the beta version, however, be sure to add in the required files before running this python notebook.  
+
 The dev version for the release contains comments embedded within the code, whereas the beta fork has most of the comments removed.
 
 The next version, beta 1_1, will address the following:
