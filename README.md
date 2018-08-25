@@ -1,7 +1,23 @@
-# README for Beta
+# README for Beta 1.0
 
-## Initial commit
+## Beta 1_0 release notes
 
-The initial commit for beta contains the python notebook. Without exception, this and all future releases in the beta branch will be fully functional python notebooks, which can be immediately downloaded and used by researchers at the O'Connor Lab and Genetics Services.  
+## Requirements:
+* python 3.6
+* python notebook file ML_MHC_haplotyper_beta_1_0.ipynb
+* the following files must be in the same directory as the python notebook:
+  * allele_df-trainingSet-HapA_transposed.csv
+  * allele_df-trainingSet-HapB_transposed.csv
+  * allele_df-testingSet-HapA_transposed.csv
+  * input pivot table (20411_Felber1-2_MHC-I_Haplotypes_23Mar18.xlsx has been provided as an example)
+  * allele_names.txt
 
-README files that accompany the beta builds will mainly consist of general usage comments, general advisories, and general statements on future builds.  The Dev Branch README will have specific and technical information on the python notebook and its functionality.
+The file "experimentIDList.txt" has been provided as a reference but is not directly used.  This file lists all of the experiments that were referenced to create the training dataset.
+
+## Usage:
+* Follow instructions inside python notebook "ML_MHC_haplotyper_beta_1_0_release.ipynb"
+* The python notebook can be run from the start, but this is not recommended.
+* The python notebook will output 2 files for mhc-A and mhc-B predictions
+
+## Technical Comments:
+See Dev fork
