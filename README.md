@@ -6,9 +6,9 @@
 * python 3.6
 * python notebook file ML_MHC_haplotyper_beta_1_0.ipynb
 * the following files must be in the same directory as the python notebook:
-  * allele_df-trainingSet-HapB.csv
-  * allele_df-trainingSet-HapA.csv
-  * allele_df-testingSet-HapA.csv
+  * allele_df-trainingSet-HapA_transposed.csv
+  * allele_df-trainingSet-HapB_transposed.csv
+  * allele_df-testingSet-HapA_transposed.csv
   * input pivot table (20411_Felber1-2_MHC-I_Haplotypes_23Mar18.xlsx has been provided as an example)
   * allele_names.txt
 
