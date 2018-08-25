@@ -15,7 +15,9 @@
 The file "experimentIDList.txt" has been provided as a reference but is not directly used.  This file lists all of the experiments that were referenced to create the training dataset.
 
 ## Usage:
-Follow instructions inside python notebook "ML_MHC_haplotyper_beta_1_0.ipynb"
+* Follow instructions inside python notebook "ML_MHC_haplotyper_beta_1_0_release.ipynb"
+* The python notebook can be run from the start, but this is not recommended.
+* The python notebook will output 2 files for mhc-A and mhc-B predictions
 
 ## Technical Comments:
 See Dev fork
